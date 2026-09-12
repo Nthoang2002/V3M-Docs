@@ -1,0 +1,11 @@
+{
+  "name": "v3m-docs-offline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-docs.mjs"
+  },
+  "devDependencies": {
+    "marked": "^16.3.0"
+  }
+}
